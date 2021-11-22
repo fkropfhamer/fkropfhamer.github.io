@@ -8,7 +8,12 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>fkropfhamer.</h1>
+      <h1>Fabian Kropfhamer</h1>
+      <ul>
+        <li><a href="https://www.instagram.com/fabyyyyyyyyyyyyyyyyyyy/">Instagram</a></li>
+        <li><a href="https://github.com/fkropfhamer">Github</a></li>
+        <li><a href="https://twitter.com/FabiNichtHappy">Twitter</a></li>
+      </ul>
     </div>
   )
 }
