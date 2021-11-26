@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Fabian Kropfhamer</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="social media links of Fabian Kropfhamer" />
       </Head>
       <h1>Fabian Kropfhamer</h1>
       <ul>
